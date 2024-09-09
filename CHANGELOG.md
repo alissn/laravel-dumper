@@ -5,6 +5,8 @@ format. This project adheres to [Semantic Versioning](https://semver.org/spec/v2
 
 ## [Unreleased]
 
+## [v3.0.2] - 2024-09-09
+
 ## [v3.0.1] - 2024-09-09
 
 ## [v3.0.0] - 2024-09-09
@@ -83,7 +85,9 @@ format. This project adheres to [Semantic Versioning](https://semver.org/spec/v2
 -   `Fixed` for any bug fixes. 
 -   `Security` in case of vulnerabilities.
 
-[Unreleased]: https://github.com/alissn/laravel-dumper/compare/v3.0.1...HEAD
+[Unreleased]: https://github.com/alissn/laravel-dumper/compare/v3.0.2...HEAD
+
+[v3.0.2]: https://github.com/alissn/laravel-dumper/compare/v3.0.1...v3.0.2
 
 [v3.0.1]: https://github.com/alissn/laravel-dumper/compare/v3.0.0...v3.0.1
 
