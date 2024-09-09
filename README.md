@@ -50,7 +50,7 @@ https://user-images.githubusercontent.com/21592/150163719-547ecd90-b029-4588-964
 Install as a dev dependency:
 
 ```shell
-# composer require glhd/laravel-dumper --dev
+# composer require alissn/laravel-dumper --dev
 ```
 
 ## Usage
